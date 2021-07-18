@@ -1,6 +1,6 @@
 spring:
   datasource:
-    password: ${db_password}
+    password: secret
     username: root
     url: 'jdbc:mysql://localhost:3307/fornecedor'
   jpa:
